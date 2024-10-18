@@ -1,6 +1,6 @@
 /* Find the characters in odd position of a string which are consonent
  * 
- * Input: Arijit Ghosh
+ * Input: Arijit Ghosh (1 based indexing)
  * Output: hs
  */
 
